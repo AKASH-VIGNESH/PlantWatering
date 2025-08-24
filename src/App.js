@@ -5,7 +5,7 @@ import rosePlant from './Assets/Rose.png';
 import mobileRose from './Assets/MobileRose.png'
 import Card from "./Component/Card";
 import PlantDetails from "./Component/PlantDetail";
-
+import './App.css';
 function App() {
   const [detailVisiblity, setdetailVisibility] = useState(false);
   const [requiredDetail, setrequiredDetail] = useState(0);
