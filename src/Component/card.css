@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+.plantCard{
+    width:350px;
+    height:500px;
+    border-radius:15px;
+}
+
+>>>>>>> efdb2f86e7c5b2a2200ea6d4d14ec76e82b9fc7d
 @media screen and  (max-width:785px) {
     .PlantCard{
         margin: auto;
